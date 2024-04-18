@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithiviraj275&label=Profile%20views&color=0e75b6&style=flat" alt="prithiviraj275" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prithiviraj275" alt="prithiviraj275" /></a> </p>
+
 
 - 🔭 I’m currently working on **Python | Machine Learning | MERN Stack**
 
