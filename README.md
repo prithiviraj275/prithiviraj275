@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Prithivi Raj S</h1>
 
 <h3 align="center">
